@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpiderView">
+        <attr name="contentColor" format="color" />
+        <attr name="lineWidth" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="unitTextSize" format="dimension" />
+        <attr name="markerContentColor" format="color" />
+        <attr name="markerContentWidth" format="dimension" />
+        <attr name="markerBorderColor" format="color" />
+        <attr name="markerBorderWidth" format="dimension" />
+    </declare-styleable>
+</resources>
